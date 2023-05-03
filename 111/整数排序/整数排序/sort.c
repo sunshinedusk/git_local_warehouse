@@ -275,5 +275,8 @@ int main()
         show();
         printf("%d\n",comparisons);
     }
+
+    //ÐÞ¸Ä²¿·Ö
+    printf("Hello git!\n");
 	return 0;
 }
